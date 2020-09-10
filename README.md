@@ -18,7 +18,7 @@
 4. Find a directory that you want to place your Repository at
 5. Make your first commit
 
-baoxian was here
+baoxian was here x2
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
