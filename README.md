@@ -17,7 +17,6 @@
 3. Select the Repository you created in Step 1
 4. Find a directory that you want to place your Repository at
 5. Make your first commit
-6. Make a second commit
 
 
 
